@@ -49,6 +49,7 @@
   -moz-appearance: none;
 }
 
+
 .flexsearch-submit {
   position: absolute;
   right: 0;
@@ -86,6 +87,13 @@
 
 input:-moz-placeholder {
   color: #888;
+}
+
+.choices {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 26px;
+  padding: 0 46px 0 10px;
+  color: red;
 }
 
 .h1 {
